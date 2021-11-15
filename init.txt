@@ -9,3 +9,11 @@ git pull
 
 cd .. : 윗 디렉토리로 이동 
 
+
+1. 레포지토리를 컴퓨터에 내려받기 git clone
+2. git add _
+3. git commit -m "message"
+4. git push origin master
+
+https://github.com/Layla0921/python.git
+
