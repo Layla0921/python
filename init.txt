@@ -1,0 +1,11 @@
+cd : change directory
+ls : list
+git init
+git status
+
+작업 -> git add -> git commit ->// git push -u origin master 
+작업한 폴더 -> stage-> stage에 있는것들을 레포지토리로 올리기
+git pull 
+
+cd .. : 윗 디렉토리로 이동 
+
